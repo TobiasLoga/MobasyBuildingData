@@ -13,31 +13,6 @@ Data_Output
 \description{
 Empty data frame to receive the results of MOBASY calculation
 }
-\details{
-The output data is assigned to the following sections:
-
-	(8) Model Indicators TABULA Calculation Model
-
-	(8.1) Thermal envelope
-
-	(8.2) Building energy balance (space heating)
-
-	(8.3) Heating system energy balance
-
-	(8.4) DHW energy balance
-
-	(8.5) Summary data energy heating
-
-	(8.6) Summary data energy DHW
-
-	(8.7) Summary data energy
-
-	(8.8) Parameters for the calculation
-
-	(8.9) Comparison Calculation-Metering
-
-	(8.10) Uncertainty of energy balance quantities
-}
 \examples{
 
 # Explanation for a variable can be viewed by use of the data frame "InfoVariables"
