@@ -16,6 +16,13 @@ The package consists of data tables / data frames with a specific structure used
 - **"Info_Variables":** 
     A table including descriptions and units of the variables (in English and German)
 
+- **"DF_FilterBuildingData":** 
+    A dataframe containing filter lists that can be applied to the building data tables
+
+- **"myFilterName":** 
+    A character string specifying the filter that has been applied to create the building data tables given in the package.
+    The value is usually supposed to be "All" (= no predefined filter applied).
+
 ---
 
 ### Method
@@ -24,8 +31,11 @@ The building data tables were developed and used in the MOBASY research project 
  
 An introduction to the energy profile indidators used to monitor housing stocks and the MOBASY model including uncertainty assessment used for realistic energy performance calculation and target/actual comparison can be found in this article: 
 
-Loga, Tobias; Stein, Britta; Behem, Guillaume: Use of Energy Profile Indicators to Determine the Expected Range of Heating Energy Consumption; Proceedings of the Conference "Central Europe towards Sustainable Building" 2022 (CESB22), 4 to 6 July 2022; Acta Polytechnica CTU Proceedings 38:470–477, 2022
+
+    Loga, Tobias; Stein, Britta; Behem, Guillaume: Use of Energy Profile Indicators to Determine the Expected Range of Heating Energy Consumption; Proceedings of the Conference "Central Europe towards Sustainable Building" 2022 (CESB22), 4 to 6 July 2022; Acta Polytechnica CTU Proceedings 38:470–477, 2022
+    
 https://ojs.cvut.cz/ojs/index.php/APP/article/view/8299/6839
+
 https://doi.org/10.14311/APP.2022.38.0470     
 
 ---

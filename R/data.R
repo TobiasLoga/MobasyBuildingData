@@ -153,5 +153,36 @@
 "InfoVariables"
 
 
+#' Predefined filter lists
+#'
+#' A dataframe containing filter lists that can be applied to the building data tables
+#'
+#' @usage DF_FilterBuildingData
+#'
+#' @format A data frame; the column names are the filter names, the dataset IDs to be used are given in the respective rows
+#'
+#' @examples
+#'
+#' DF_FilterBuildingData [ , "MOBASY-Sample"]
+#' DF_FilterBuildingData [ , "Example"]
+#' DF_FilterBuildingData [ , "WebTool"]
+#'
+#'
+#'
+"DF_FilterBuildingData"
+
+
+#' The name of the filter that has already been applied
+#'
+#' A character string specifying the filter that has been applied to create the building data tables given in the package.
+#' The value is usually supposed to be "All" (= no predefined filter applied).
+#'
+#' @usage myFilterName
+#'
+#' @format A charater string
+#'
+#'
+"myFilterName"
+
 
 
