@@ -1,3 +1,8 @@
+# renv::init()
+# renv::status()
+# renv::snapshot()
+
+
 
 
 #' Input data - MOBASY Building data
