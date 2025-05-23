@@ -1,11 +1,11 @@
 Package: MobasyBuildingData
 Type: Package
 Title: MOBASY Building data tables
-Version: 0.1.0
+Version: 0.1.1
 Author: Tobias Loga <t.loga@iwu.de> ORCID = "0000-0001-5097-5613"
 Maintainer: Tobias Loga <t.loga@iwu.de>
 Description: The package includes the input and the output data structure of the building data tables developed and used in the MOBASY research project (https://www.iwu.de/forschung/energie/mobasy/). The datasets from the building stock sample compiled and evaluated during the project are also included as examples. The input values can be used by the MOBASY model for realistic energy performance calculation and target/actual comparison, the input and output values can be statistically evaluated.
 License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
