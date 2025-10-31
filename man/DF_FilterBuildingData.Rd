@@ -16,7 +16,7 @@ A dataframe containing filter lists that can be applied to the building data tab
 \examples{
 
 DF_FilterBuildingData [ , "MOBASY-Sample"]
-DF_FilterBuildingData [ , "Example"]
+DF_FilterBuildingData [ , "Examples"]
 DF_FilterBuildingData [ , "WebTool"]
 
 

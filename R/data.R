@@ -169,7 +169,7 @@
 #' @examples
 #'
 #' DF_FilterBuildingData [ , "MOBASY-Sample"]
-#' DF_FilterBuildingData [ , "Example"]
+#' DF_FilterBuildingData [ , "Examples"]
 #' DF_FilterBuildingData [ , "WebTool"]
 #'
 #'
