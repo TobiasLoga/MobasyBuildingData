@@ -169,9 +169,11 @@
 #' @examples
 #'
 #' DF_FilterBuildingData [ , "MOBASY-Sample"]
+#' DF_FilterBuildingData [ , "MOBASY-Sample_Checked-OnSite"]
 #' DF_FilterBuildingData [ , "Examples"]
 #' DF_FilterBuildingData [ , "WebTool"]
-#'
+#' DF_FilterBuildingData [ , "Typology-DE_Example-Buildings"]
+#' DF_FilterBuildingData [ , "EnergyProfileShinyApp"]
 #'
 #'
 "DF_FilterBuildingData"
